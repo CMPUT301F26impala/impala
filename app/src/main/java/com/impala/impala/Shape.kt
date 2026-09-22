@@ -1,3 +1,5 @@
 package com.impala.impala
 
-abstract class Shape(x: Int, y: Int) {}
+abstract class Shape(x: Int, y: Int) {
+    val color: String = "team color"
+}
