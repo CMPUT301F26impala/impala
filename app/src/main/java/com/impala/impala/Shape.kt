@@ -1,5 +1,5 @@
 package com.impala.impala
 
 abstract class Shape(x: Int, y: Int) {
-    val color: String = "team color"
+    val color: String = "team color two"
 }
